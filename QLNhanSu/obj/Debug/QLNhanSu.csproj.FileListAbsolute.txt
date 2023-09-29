@@ -1,0 +1,15 @@
+C:\Users\Tona\Desktop\Code\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.exe.config
+C:\Users\Tona\Desktop\Code\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.exe
+C:\Users\Tona\Desktop\Code\QLNhanSu\QLNhanSu\bin\Debug\QLNhanSu.pdb
+C:\Users\Tona\Desktop\Code\QLNhanSu\QLNhanSu\bin\Debug\EntityFramework.dll
+C:\Users\Tona\Desktop\Code\QLNhanSu\QLNhanSu\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tona\Desktop\Code\QLNhanSu\QLNhanSu\bin\Debug\EntityFramework.xml
+C:\Users\Tona\Desktop\Code\QLNhanSu\QLNhanSu\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tona\Desktop\Code\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.csproj.AssemblyReference.cache
+C:\Users\Tona\Desktop\Code\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.Form1.resources
+C:\Users\Tona\Desktop\Code\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.Properties.Resources.resources
+C:\Users\Tona\Desktop\Code\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.csproj.GenerateResource.cache
+C:\Users\Tona\Desktop\Code\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\Tona\Desktop\Code\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.csproj.CopyComplete
+C:\Users\Tona\Desktop\Code\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.exe
+C:\Users\Tona\Desktop\Code\QLNhanSu\QLNhanSu\obj\Debug\QLNhanSu.pdb
